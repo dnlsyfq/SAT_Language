@@ -176,24 +176,24 @@ return [
     ],
     "Device" => "Peranti",
     "Device" => [
-        "Device List" => "Daftar perangkat",
+        "Device List" => "Senarai Peranti",
         "ID" => "ID",
-        "NAME(DEVICEID)" => "NAMA(IDPERANGKAT)",
-        "CUSTOMER" => "CUSTOMER",
-        "PRODUCT" => "PELANGGAN",
-        "ASSIGNED TO" => "DITUGASKAN UNTUK",
-        "BATTERY LEVEL" => "TINGKAT BATERAI",
-        "HEALTH" => "KESEHATAN BATERAI",
-        "LAST ACTIVE AT" => "AKTIF TERAKHIR DI"
+        "NAME(DEVICEID)" => "NAMA(IDPERANTI)",
+        "CUSTOMER" => "PELANGGAN",
+        "PRODUCT" => "PRODUK",
+        "ASSIGNED TO" => "DITUGASKAN PADA",
+        "BATTERY LEVEL" => "HAYAT BATERI",
+        "HEALTH" => "HAYAT",
+        "LAST ACTIVE AT" => "WAKTU TERAKHIR AKTIF PADA"
     ] ,
-    "Device Raw Reading List" => "Daftar Bacaan Nilai Perangkat",
+    "Device Raw Reading List" => "Senarai Bacaan Nilai Peranti",
     "Device Raw Reading List"=>[
-        "Device" => "perangkat",
+        "Device" => "Peranti",
         "ID" => "ID",
-        "DEVICE" => "perangkat",
-        "HEADER" => "tajuk",
-        "PAYLOAD" => "muatan",
-        "TRANSLATED" => "TERJEMAHAN"
+        "DEVICE" => "PERANTI",
+        "HEADER" => "JUDUL",
+        "PAYLOAD" => "MUATAN",
+        "TRANSLATED" => "DITERJEMAH"
 
     ],
     "Map" => "Map",
