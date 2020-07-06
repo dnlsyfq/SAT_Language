@@ -223,7 +223,7 @@ return [
                 "Duration" => "Duration",
                 "Task description" => "Task description",
                 "Date" => "Date",
-                "Status" => "Status"
+                "Status" => "Status",
                 "Cancel" => "Cancel"
             ]
         ] ,

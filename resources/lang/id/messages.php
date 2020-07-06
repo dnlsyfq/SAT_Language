@@ -225,7 +225,7 @@ return [
                 "Duration" => "Durasi",
                 "Task description" => "Deskripsi tugas",
                 "Date" => "Tanggal",
-                "Status" => "Status"
+                "Status" => "Status",
                 "Cancel" => "Batal"
             ]
         ] ,

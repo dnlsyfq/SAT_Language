@@ -196,58 +196,58 @@ return [
         "TRANSLATED" => "DITERJEMAH"
 
     ],
-    "Map" => "Map",
+    "Map" => "Peta",
     "Report" => "Laporan",
     "Report" => [
-        "Sensors report by device" => "Laporan sensor oleh perangkat",
-        "Download Report - Excel" => "Unduh Laporan - excel"
+        "Sensors report by device" => "Laporan sensor oleh peranti",
+        "Download Report - Excel" => "Muat Turun Laporan - excel"
     ],
-    "Operation Management" => "Manajemen operasional",
+    "Operation Management" => "Pengurusan Operasi",
     "Operation Management" => [
         "My Task" => [
-            "My Task" => "Tugasku",
+            "My Task" => "Tugas Saya",
             "ID" => "ID",
             "NAME" => "NAMA",
             "DURATION" => "DURASI",
-            "DESCRIPTION" => "DESKRIPSI",
-            "DATE" => "TANGGAL",
+            "DESCRIPTION" => "PENERANGAN",
+            "DATE" => "TARIKH",
             "STATUS" => "STATUS",
             "ACTION" => "TINDAKAN",
             // ADD BUTTON
             "Create Task" => [
                 "Create Task" => "Buat Tugas",
                 "Create a new task" => "Buat tugas baru",
-                "NEW TASK" => "NAMA TUGAS",
-                "Task name" => "Task name",
+                "NEW TASK" => "TUGAS BARU",
+                "Task name" => "Nama tugas",
                 "Duration" => "Durasi",
-                "Task description" => "Deskripsi tugas",
-                "Date" => "Tanggal",
-                "Status" => "Status"
+                "Task description" => "Penerangan tugas",
+                "Date" => "Tarikh",
+                "Status" => "Status",
                 "Cancel" => "Batal"
             ]
         ] ,
-        "Inventory" => "Inventory",
+        "Inventory" => "Inventori",
         "Inventory" => [
             "ID" => "ID",
-            "NAME" => "NAMa",
-            "TYPE" => "TIPE",
-            "DESCRIPTION" => "DESKRIPSI",
-            "DATE END" => "TANGGAL BERAKHIR",
+            "NAME" => "NAMA",
+            "TYPE" => "JENIS",
+            "DESCRIPTION" => "PENERANGAN",
+            "DATE END" => "TARIKH BERAKHIR",
             "PRICE PER UNIT" => "HARGA PER UNIT",
             "STATUS" => "STATUS",
             "ACTION" => "TINDAKAN",
             // BUTTON
-            "ADD INVENTORY" => "TAMBAHKAN INVENTARIS",
+            "ADD INVENTORY" => "TAMBAH INVENTORI",
             "ADD INVENTORY" => [
-                "INVENTORY" => "INVENTARIS",
-                "Create a new inventory" => "Buat inventaris baru",
+                "INVENTORY" => "INVENTORI",
+                "Create a new inventory" => "Buat inventori baru",
                 "Item Name" => "Nama item",
-                "Type" => "Tipe",
-                "Item description" => "Deskripsi barang",
-                "Date end" => "Tanggal berakhir",
+                "Type" => "Jenis",
+                "Item description" => "Penerangan item",
+                "Date end" => "Tarikh akhir",
                 "Price per Unit" => "Harga per unit",
                 "Status" => "Status",
-                "Create Inventory" => "Buat inventaris",
+                "Create Inventory" => "Buat inventori",
                 "Cancel" => "Batal"
             ]
         ] ,
@@ -255,7 +255,7 @@ return [
         "Reporting" => [
             
             // CARD
-            "HARVESTING REPORT" => "LAPORAN PANEN",
+            "HARVESTING REPORT" => "LAPORAN TUAIAN",
             "HARVESTING REPORT" => [
                 "Plot" => "Plot",
                 "Date from" => "Tarikh mula",
